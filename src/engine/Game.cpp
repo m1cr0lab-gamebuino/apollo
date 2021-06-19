@@ -103,8 +103,7 @@ void Game::_gettingStarted() {
 
         _reset();
 
-    // } else if (gb.buttons.pressed(BUTTON_MENU)) {
-    } else if (gb.buttons.pressed(BUTTON_B)) { // while using ScreenRecorder
+    } else if (gb.buttons.pressed(BUTTON_MENU)) {
 
         _state = State::config;
 
