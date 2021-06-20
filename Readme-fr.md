@@ -1,7 +1,13 @@
-# Apollo - un jeu pour la Gamebuino META
+# Apollo - un petit jeu pour la Gamebuino META
 
 
 <img src="assets/0-apollo-demo.gif" alt="demo" width="320" height="256">
+
+
+Si ce jeu te plaît, pense à me laiser un :sparkling_heart:
+
+- [Sur la page officielle du jeu][gbc] sur le site **Gamebuino**.
+- [Sur l'annonce officielle du jeu][gbf] sur le forum **Gamebuino**.
 
 
 ## Le principe du jeu
@@ -58,4 +64,12 @@ Pour une meilleure ergonomie en cours de partie, je vous conseille d'orienter vo
 - Le potentiomètres de droite, qui commande les propulseurs latéraux, doit être positionné à mi-course pour ne déclencher aucune rotation du module lunaire, ni vers la gauche, ni vers la droite.
 
 
-[kit]:  https://shop.gamebuino.com/fr/accessoires/73-pack-accessoires-pour-gamebuino.html
+Si ce jeu te plaît, pense à me laiser un :sparkling_heart:
+
+- [Sur la page officielle du jeu][gbc], sur le site **Gamebuino**.
+- [Sur l'annonce officielle du jeu][gbf], sur le forum **Gamebuino**.
+
+
+[kit]: https://shop.gamebuino.com/fr/accessoires/73-pack-accessoires-pour-gamebuino.html
+[gbc]: https://gamebuino.com/creations/apollo
+[gbf]: https://community.gamebuino.com/t/new-creation-apollo-by-steph/237

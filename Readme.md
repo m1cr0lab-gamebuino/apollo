@@ -1,9 +1,15 @@
-# Apollo - a game for the Gamebuino META
+# Apollo - a tiny game for the Gamebuino META
 
 
 &raquo; [Version française][fr]
 
 <img src="assets/0-apollo-demo.gif" alt="demo" width="320" height="256">
+
+
+If you like this game, please leave me a :sparkling_heart:
+
+- [On the official game page][gbc], on the **Gamebuino** website.
+- [On the official announcement of the game][gbf], on the **Gamebuino** forum.
 
 
 ## The story of the game
@@ -60,5 +66,13 @@ For a better ergonomics during the game, I advise you to orientate your rotary k
 - The right potentiometer, which controls the lateral thrusters, must be positioned at the halfway point so as not to trigger any rotation of the lunar module, neither to the left nor to the right.
 
 
-[kit]:  https://shop.gamebuino.com/fr/accessoires/73-pack-accessoires-pour-gamebuino.html
-[fr]:   Readme-fr.md
+If you like this game, please leave me a :sparkling_heart:
+
+- [On the official game page][gbc], on the **Gamebuino** website.
+- [On the official announcement of the game][gbf], on the **Gamebuino** forum.
+
+
+[fr]:  Readme-fr.md
+[kit]: https://shop.gamebuino.com/fr/accessoires/73-pack-accessoires-pour-gamebuino.html
+[gbc]: https://gamebuino.com/creations/apollo
+[gbf]: https://community.gamebuino.com/t/new-creation-apollo-by-steph/237
