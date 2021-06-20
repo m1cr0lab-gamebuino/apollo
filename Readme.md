@@ -8,11 +8,11 @@
 
 ## The story of the game
 
-Propelled into the past, at the time of the craziest conquest in the history of mankind, you join NASA's Apollo space program, launched by President John F. Kennedy in 1961. Eight years after its launch, you play the famous astronaut Neil Armstrong, commander of Apollo 11, and your mission is to land the manned lunar module on the surface of the Moon, which no human being has managed to do until now. The piloting maneuvers are extremely precise and you have little time to prepare before the Saturn V launch vehicle takes off. NASA engineers have developed a very sophisticated simulator to train and develop your dexterity, necessary for the success of this extremely dangerous mission.
+Propelled into the past, at the time of the craziest conquest in the history of mankind, you join NASA's Apollo space program, launched by President John F. Kennedy in 1961. Eight years after its launch, you play the famous astronaut Neil Armstrong, commander of Apollo 11, and your mission is to land the manned lunar module on the surface of the Moon, which no human being has managed to do until now. The piloting maneuvers are extremely precise and you have little time to prepare before the Saturn V launch vehicle takes off. NASA engineers have developed a highly sophisticated simulator to train and develop the dexterity needed to succeed in this extremely dangerous mission.
 
-You have 3 lunar modules with tanks full of nitrogen peroxide and aerozine 50. Your objective is to perform as many lunar landings as possible with these limited fuel resources. Be careful, the approach maneuvers to the lunar ground must be done smoothly in order not to risk a disaster and precipitate your crew towards a fatal outcome caused by the explosion of the lunar module.
+You have 3 lunar modules with tanks full of nitrogen peroxide and Aerosol 50. Your objective is to perform as many lunar landings as possible with these limited fuel resources. Be careful, the approach maneuvers to the lunar ground must be done smoothly to avoid the risk of disaster and precipitate your crew towards a fatal outcome caused by the explosion of the lunar module.
 
-The lunar landing sites that will be presented to you will not all expose you to the same difficulties and you will be largely rewarded if you manage to land on the narrowest of them. The reward for each landing is also inversely proportional to the time spent during the approach phase.
+Not all landing sites will be equally difficult and you will be rewarded greatly if you manage to land on the narrowest of them. The reward for each landing is also inversely proportional to the time spent during the entire approach phase.
 
 The simulator is equipped with two radically different navigation systems. The first one, much simpler, will allow you to control the landing with the standard META buttons and benefit from a navigation assistance:
 
@@ -20,15 +20,15 @@ The simulator is equipped with two radically different navigation systems. The f
 
 - The A button will allow you to activate the main thruster to develop a powerful thrust and oppose the Moon's gravity.
 
-Simply release the buttons to deactivate the thrusters.
+Simply release the buttons to turn off the thruster ignition.
 
-When you are experienced in approach maneuvers, you can switch to the second navigation system reserved for experts, which is much more precise, but much more difficult to master:
+Once you've mastered the approach maneuvers, you can switch to the second navigation system reserved for experts, which is much more precise, but much more difficult to master:
 
-- A rotary potentiometer will allow you to activate the lateral thrusters with more or less power to control the rotation of the lunar module. Be careful to reposition the potentiometer halfway to deactivate the thruster ignition system and stabilize the inclination of the lunar module.
+- A rotary potentiometer will allow you to activate the lateral thrusters with more or less power to control the rotation of the lunar module. Be careful to reposition the potentiometer halfway to deactivate the thrusters ignition system and stabilize the lunar module inclination.
 
-- Another rotary potentiometer will allow you to activate the main thruster by precisely dosing the thrust to be applied to the lunar module for a better control of the fuel consumption during your approach maneuvers.
+- Another rotary potentiometer will allow you to activate the main thruster by precisely adjusting the thrust to be applied to the lunar module for a better control of the fuel consumption during your approach maneuvers.
 
-Firing the thrusters will necessarily consume fuel, but remember that you only have a limited amount of this precious mixture to control the lunar module. Once your supplies are exhausted, you will not be able to control anything and the crash will certainly be inevitable...
+The ignition of the thrusters will necessarily consume fuel, but don't forget that you only have a limited amount of this precious mixture to control the lunar module. Once your supplies are exhausted, you will not be able to control anything and the crash will certainly be inevitable...
 
 
 ## Main controls
@@ -57,7 +57,7 @@ For a better ergonomics during the game, I advise you to orientate your rotary k
 
 - The left potentiometer, which controls the main thruster, should be positioned at the beginning of the stroke (full left rotation) for a zero power thrust.
 
-- The right potentiometer, which controls the lateral thrusters, must be positioned at mid-stroke to trigger no rotation, neither to the left nor to the right, of the lunar module.
+- The right potentiometer, which controls the lateral thrusters, must be positioned at the halfway point so as not to trigger any rotation of the lunar module, neither to the left nor to the right.
 
 
 [kit]:  https://shop.gamebuino.com/fr/accessoires/73-pack-accessoires-pour-gamebuino.html
